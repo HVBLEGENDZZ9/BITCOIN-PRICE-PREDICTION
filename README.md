@@ -11,4 +11,4 @@
  ![alt text](https://github.com/HVBLEGENDZZ9/BITCOIN-PRICE-PREDICTION/blob/main/download.png)
 
 BELOW IS THE SET OF HYPERPARAMETERS USED IN THE [N-BEATS MODEL](https://arxiv.org/pdf/1905.10437.pdf):
- ![alt text](https://github.com/HVBLEGENDZZ9/BITCOIN-PRICE-PREDICTION/blob/main/download.png)
+ ![alt text](https://github.com/HVBLEGENDZZ9/BITCOIN-PRICE-PREDICTION/blob/main/hyperparameters_img.png)
