@@ -8,4 +8,4 @@
  * ENSEMBLE (1 WEEK, 1 DAY) : (EPOCHS = 1000)
  
  BELOW IS A GRAPHICAL REPRESENTATION OF THE MAE OF ALL THE TESTED MODELS:
- ![alt text](http://url/to/img.png)
+ ![alt text](https://github.com/HVBLEGENDZZ9/BITCOIN-PRICE-PREDICTION/blob/main/download.png)
